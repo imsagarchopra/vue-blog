@@ -1,0 +1,24 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "This is my first blog post.I hope you like it. I am a software enginner with ample skills in programming. I love to code and learn new things",
+            "tags":[
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 CSS Tips",
+            "body": "Here we will discuss about the tips and techniques that comes handy while writing CSS for your Vue applications",
+            "tags":[
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
