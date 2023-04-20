@@ -22,8 +22,8 @@ import { projectFirestore } from '@/firebase/config';
         props:['id'],
         components:{Spinner},
         setup(props){
-            const route = useRoute
-            const router = useRouter
+            const route = useRoute()
+            const router = useRouter()
             const { post, error, load } = getPost(props.id)
             //const { post, error, load } = getPost(route.params.id)
 
